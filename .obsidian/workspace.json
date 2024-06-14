@@ -11,8 +11,12 @@
             "id": "9f72015e6ead8a8e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "RuleBook.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RuleBook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RuleBook.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RuleBook.md"
+              }
             }
           }
         ],
@@ -146,12 +154,12 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "838ec2d6c4d67ecd",
+  "active": "9f72015e6ead8a8e",
   "lastOpenFiles": [
+    "CodePattern/blog/Dynamic Programming Patterns.md",
     "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
     "CodePattern/code/problems/76. Minimum Window Substring.md",
     "CodePattern/code/problems/Unique Paths.md",
-    "CodePattern/blog/Dynamic Programming Patterns.md",
     "CodePattern/code/problems/53. Maximum Subarray.md",
     "CodePattern/code/problems/48. Rotate Image.md",
     "CodePattern/code/problems/5. Longest Palindromic Substring.md",
