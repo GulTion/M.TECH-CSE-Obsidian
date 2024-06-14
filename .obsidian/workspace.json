@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5bff9a2a5a4c43d5",
+        "id": "bd20ef537d150862",
         "type": "tabs",
         "children": [
           {
-            "id": "84c72f2716e5f64b",
+            "id": "9f72015e6ead8a8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,10 +146,10 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "6714e96022ecec3f",
+  "active": "838ec2d6c4d67ecd",
   "lastOpenFiles": [
-    "CodePattern/code/problems/76. Minimum Window Substring.md",
     "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
+    "CodePattern/code/problems/76. Minimum Window Substring.md",
     "CodePattern/code/problems/Unique Paths.md",
     "CodePattern/blog/Dynamic Programming Patterns.md",
     "CodePattern/code/problems/53. Maximum Subarray.md",
