@@ -116,7 +116,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -155,7 +155,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d8b2f6af8c44fef3",
+  "active": "6714e96022ecec3f",
   "lastOpenFiles": [
     "CodePattern/code/problems/76. Minimum Window Substring.md",
     "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
