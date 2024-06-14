@@ -8,5 +8,6 @@
   "obsidian-advanced-uri",
   "obsidian-local-rest-api",
   "obsidian-activity-history",
-  "github-sync"
+  "github-sync",
+  "obsidian-spaced-repetition"
 ]

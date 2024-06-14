@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": false,
-  "includePluginCSS": "",
+  "includePluginCSS": "pdf-plus",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",
@@ -30,7 +30,7 @@
   "authorName": "",
   "vaultTitle": "M.Tech CSE",
   "exportPreset": "website",
-  "openAfterExport": false,
+  "openAfterExport": true,
   "graphAttractionForce": 1,
   "graphLinkLength": 10,
   "graphRepulsionForce": 150,
@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/gkv1024/Downloads/export",
+  "exportPath": "/host/COLLECTION/M.Tech CSE/M.Tech CSE/.web",
   "filesToExport": [
     []
   ]
