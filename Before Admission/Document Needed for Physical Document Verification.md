@@ -1,0 +1,20 @@
+**Note:**
+- All Document with Original and Photo copy at Venu Time
+- 
+- [ ] Copy of the online application form
+- [ ] Copy of the seat allotment letter.
+- [ ] Copy of Admission fee payment receipt
+- [ ] The Migration Certificate or College Leaving Certificate
+- [ ] Photo ID (Aadhaar/PAN/DL etc) and Proof of age (Plus 2 certificate/Aadhaar/Matriculation certificate, etc.)
+- [ ] 4 passport size and 10 stamp size colour photographs.
+- [ ] B.Tech Degree
+- [ ] B.tech Mark sheets of All semester
+- [ ] Caste Certificate
+- [ ] 12th Mark Sheet
+- [ ] 10th Mark sheet
+- [ ] class awarded Certificate
+- [ ] GATE Score card
+- [ ] Medical Fitness Certificate (as per Annexure II)
+	- **Format**: as per Annexure II
+	- **Signed By**: the chief medical officer (CMO) or equivalent of a government hospital
+	- colour blindness/uniocularity

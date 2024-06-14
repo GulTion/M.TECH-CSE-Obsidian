@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "type": {
+          "options": [
+            "blog/code"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "56001b4f-c90d-4564-8d22-6906c2959e5e",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "columnWidth": 270,
+            "groupByField": "type",
+            "columns": {
+              "blog/code": {
+                "weight": 0
+              },
+              "blog": {
+                "weight": 1
+              },
+              "No status": {
+                "records": [
+                  "blog/code/At Most To Equal.md",
+                  "blog/code/C++ O(N) Time Sliding Window + \"At Most to Equal\" trick.md",
+                  "code/problems/1493. Longest Subarray of 1's After Deleting One Element.md",
+                  "code/template/🌟 Sliding Window \"At Most to Equal\" trick.md",
+                  "Parent/Stack/Stack Questions List.md"
+                ]
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e3e53335-b491-4e7e-aaf8-3aea01c45ef9",
+          "name": "Stack",
+          "type": "board"
+        }
+      ],
+      "id": "abaeea43-4fb0-4c64-8c0d-13195a565e98",
+      "name": "Coding"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

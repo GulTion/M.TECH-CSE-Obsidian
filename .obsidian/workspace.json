@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "b56b6851039e0fda",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bff9a2a5a4c43d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84c72f2716e5f64b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36910022c23304b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1a5bf6bf2beb5fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838ec2d6c4d67ecd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8b2f6af8c44fef3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Hash_Table",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67203f2c94eafd40",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da27492a959eb638",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe27318a8a8738b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a61449a7472fa63e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f44598ea3e5ddc78",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6714e96022ecec3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd429ad4c0d56b2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "gemini-assistant:New Gemini chat": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "d8b2f6af8c44fef3",
+  "lastOpenFiles": [
+    "CodePattern/code/problems/76. Minimum Window Substring.md",
+    "CodePattern/code/problems/945. Minimum Increment to Make Array Unique.md",
+    "CodePattern/code/problems/Unique Paths.md",
+    "CodePattern/blog/Dynamic Programming Patterns.md",
+    "CodePattern/code/problems/53. Maximum Subarray.md",
+    "CodePattern/code/problems/48. Rotate Image.md",
+    "CodePattern/code/problems/5. Longest Palindromic Substring.md",
+    "CodePattern/code/problems/3. Longest Substring Without Repeating Characters.md",
+    "CodePattern/code/template/LCS Bottom UP.md",
+    "Book Reading/Atomic Habits/1. The Surprising Power of Atomic Habits.md",
+    "Book Reading/Atomic Habits/media/(B07D23CFGR) James Clear - Atomic Habits-Random House Business Books (2018).pdf",
+    "Book Reading/Atomic Habits/media/media/(B07D23CFGR) James Clear - Atomic Habits-Random House Business Books (2018).webp",
+    "Book Reading/Atomic Habits/media/media",
+    "Book Reading/Atomic Habits/Atomic Habits Introduction.md",
+    "Course/LearnCPP/16.1 — Introduction to containers and arrays – Learn C++.md",
+    "Book Reading/Atomic Habits/media",
+    "Book Reading/Atomic Habits",
+    "Book Reading",
+    "Course/LearnCPP/media/16.1 — Introduction to containers and arrays – Learn C++.pdf",
+    "Pasted image 20240610111805.png",
+    "Course/LearnCPP/LearnCPP Introduction.md",
+    "Learning About.md",
+    "Course/LearnCPP/media/media/16.1 — Introduction to containers and arrays – Learn C++.webp",
+    "16.1 — Introduction to containers and arrays – Learn C++.md",
+    "Course/LearnCPP/media/media",
+    "5.9 — Introduction to stdstring – Learn C++.md",
+    "Course/LearnCPP/media/5.9 — Introduction to stdstring – Learn C++.md",
+    "Course/LearnCPP/media",
+    "Course/LearnCPP",
+    "Course/Stanford CS229/CS229 Introduction.md",
+    "CodePattern/Parent/Stack/Stack Identification.md",
+    "CodePattern/Parent/Stack/Stack.canvas",
+    "CodePattern/Excalidraw/Drawing 2024-05-26 16.44.50.excalidraw.md",
+    "CodePattern/code/template/Sliding Window.md",
+    "CodePattern/code/template/Io Optimization.md",
+    "CodePattern/code/problems/Stock span problem.md",
+    "CodePattern/code/problems/Smallest number on left.md",
+    "CodePattern/code/problems/Next Greater Element.md",
+    "CodePattern/code/problems/1493. Longest Subarray of 1's After Deleting One Element.md",
+    "Syllabus",
+    "CodePattern/Parent/Stack/media/Pasted image 20240524174937.png",
+    "CodePattern/Parent/media/Screenshot from 2024-05-24 17-32-21.png",
+    "CodePattern/media/Pasted image 20240528065557.png",
+    "CodePattern/media/Pasted image 20240531212410.png",
+    "CodePattern/media/Pasted image 20240528065613.png",
+    "CodePattern/media/Pasted image 20240528065604.png"
+  ]
+}

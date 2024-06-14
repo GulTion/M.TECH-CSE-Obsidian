@@ -1,0 +1,65 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "code_difficulty": {},
+        "code_src": {},
+        "code_type": {}
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "CodePattern",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "code_difficulty",
+              "excalidraw-plugin",
+              "code_src",
+              "lc_id",
+              "tags",
+              "code_type"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "562a4e25-ef0a-4557-bd1b-1eab38741b43",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "fd5aca03-2972-43de-98e2-12db5668533f",
+      "name": "CodePattern"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

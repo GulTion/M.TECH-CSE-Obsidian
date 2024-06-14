@@ -1,0 +1,8 @@
+{
+  "attachmentFolderPath": "./media",
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "promptDelete": false
+}

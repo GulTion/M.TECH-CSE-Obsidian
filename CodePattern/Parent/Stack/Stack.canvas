@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"c3039b60852f0e87","type":"text","text":"# STACK","x":80,"y":-480,"width":160,"height":60},
+		{"id":"648a19570cd5449e","type":"file","file":"CodePattern/code/problems/Next Greater Element.md","x":-440,"y":-120,"width":400,"height":50},
+		{"id":"2ac5336197bba8d6","type":"file","file":"CodePattern/code/problems/Stock span problem.md","x":-440,"y":60,"width":400,"height":50},
+		{"id":"2b9b6f75099ba17c","type":"file","file":"CodePattern/code/problems/Smallest number on left.md","x":-440,"y":-40,"width":400,"height":50}
+	],
+	"edges":[
+		{"id":"0244f577d5ead6b0","fromNode":"c3039b60852f0e87","fromSide":"bottom","toNode":"2b9b6f75099ba17c","toSide":"right"},
+		{"id":"525ee068650329e0","fromNode":"c3039b60852f0e87","fromSide":"bottom","toNode":"648a19570cd5449e","toSide":"right"},
+		{"id":"d8efcfacb5f45b3e","fromNode":"c3039b60852f0e87","fromSide":"bottom","toNode":"2ac5336197bba8d6","toSide":"right"}
+	]
+}

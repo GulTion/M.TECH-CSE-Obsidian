@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"8dcfbf9c79826f63","x":-220,"y":-180,"width":160,"height":60,"type":"text","text":"# STACK"},
+		{"id":"6d584f5f27eca737","x":-480,"y":20,"width":400,"height":400,"type":"file","file":"code/problems/1248. Count Number of Nice Subarrays.md"},
+		{"id":"92bf03ba05b898dc","x":100,"y":-20,"width":400,"height":400,"type":"file","file":"Main.canvas"}
+	],
+	"edges":[
+		{"id":"ab1ca6903fc66e48","fromNode":"8dcfbf9c79826f63","fromSide":"bottom","toNode":"6d584f5f27eca737","toSide":"top"},
+		{"id":"543e3cbcfcfe215b","fromNode":"8dcfbf9c79826f63","fromSide":"bottom","toNode":"92bf03ba05b898dc","toSide":"top"}
+	]
+}
